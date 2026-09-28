@@ -1,0 +1,12 @@
+let prix = 80;
+let quantite = 2;
+let total = prix * quantite;
+console.log("Total :", total);
+let somme = 60 + 7;
+let difference = 428 - 8;
+let produit = 455.5 * 2;
+let quotient = 128 / 2;
+console.log("Total de la somme :", somme);
+console.log("Total de la difference:", difference);
+console.log("Total de la produit:", produit);
+console.log("Total de la quotient:", quotient);

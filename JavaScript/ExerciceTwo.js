@@ -1,0 +1,10 @@
+let x=8;
+let y=5;
+let z=x+y*2;
+console.log("z=", z);
+y=y*z;
+z=z/2+y+2/4;
+console.log("y =", y);
+console.log("z =", z);
+x=x%2+1;
+console.log("x =", x);
