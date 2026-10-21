@@ -1,0 +1,25 @@
+Fond du header et du bloc d'accueil
+Beige crème — #F8F0E5
+
+
+Fond de la section « Our Specialties »
+Blanc — #FFFFFF
+
+Fond des trois cartes
+Beige très clair — #FBF4EB
+
+Bouton « Discover our menu »
+Brun café — #713A16
+
+Titres et textes
+Brun très foncé — #2C1A10
+
+--------------
+Ajouter dans le <head> :
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+font-family :
+'Poppins'
+'arial'
