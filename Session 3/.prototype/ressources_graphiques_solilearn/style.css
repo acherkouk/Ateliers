@@ -266,3 +266,16 @@ body {
     border-radius: 50%;
     padding: 8px;
 }
+.image-facebook img {
+    height: 30px;
+}
+
+.image-linkedin img {
+    height: 30px;
+}
+.image-instagram img {
+    height: 30px;
+}
+.image-youtube img {
+    height: 30px;
+}
