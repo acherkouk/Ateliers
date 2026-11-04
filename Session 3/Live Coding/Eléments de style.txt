@@ -1,0 +1,11 @@
+Palette de couleurs & Typographie
+
+--Police globale : 'Inter', system-ui ou sans-serif.
+--Fond de la page : #0b1329 (Sombre / Dark Mode).
+--Header & Cards : #0f172a avec bordures fines en #1e293b.
+--Texte principal : Blanc (#f8fafc), descriptions en gris clair (#94a3b8).
+--Logo, bouton S'inscrire, liens "Découvrir" : Vert/Émeraude (#10b981).
+--Bannière : Dégradé diagonal linear-gradient(135deg, #059669 0%, #0d9488 50%, #0284c7 100%).
+--Badges :
+	-Débutant : Fond cyan semi-transparent rgba(14, 165, 233, 0.15) avec texte #38bdf8.
+	-Avancé : Fond vert semi-transparent rgba(16, 185, 129, 0.15) avec texte #34d399.

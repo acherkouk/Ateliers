@@ -1,0 +1,94 @@
+body {
+    font-family: Inter, sans-serif;
+    background-color: #0b1329;
+    color: #f8fafc;
+    display: flex;
+    flex-direction: column;
+}
+header {
+    background-color: #0f172a;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    padding: 5px;
+    border: 1px solid #1e293b;
+}
+.logo {
+    font-family: Inter, system-ui;
+    color: #10b981;
+    text-decoration: none;
+    font-weight: bold;
+}
+.banner {
+    background: linear-gradient(135deg, #059669 0%, #0d9488 50%, #0284c7 100%);
+    text-align: center;
+}
+.btn-banner {
+    background-color: #0f172a;
+    color: #f8fafc;
+    border-radius: 7px;
+    text-decoration: none;
+    padding: 10px 12px;
+}
+nav a {
+    color: #94a3b8;
+    text-decoration: none;
+}
+.btn-nav {
+    background-color: #10b981;
+    color: #f8fafc;
+    border-radius: 7px;
+    text-decoration: none;
+    padding: 10px 12px;
+}
+.cards-grid {
+    display: flex;
+}
+.card-1, .card-2 {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 10px;
+}
+.card-1 {
+    border: 1px solid #38bdf8;
+    background-color: rgba(14, 165, 233, 0.15);
+}
+.card-2 {
+    border: 1px solid #34d399;
+    background-color: rgba(16, 185, 129, 0.15);
+}
+.container p {
+    color: #94a3b8;
+}
+.container a {
+    color: #10b981;
+    text-decoration: none;
+}
+.badge.badge-blue {
+    background-color: #38bdf8;
+    border-radius: 7px;
+    text-decoration: none;
+    padding: 10px 12px;
+    display: flex;
+    flex-direction: row;
+}
+.badge.badge-green {
+    background-color: #34d399;
+    border-radius: 7px;
+    text-decoration: none;
+    padding: 10px 12px;
+    display: flex;
+    flex-direction: row;
+}
+.footer {
+    background-color: #0f172a;
+    display: flex;
+    justify-content: space-between;
+}
+.footer-links a {
+    color: #94a3b8;
+    text-decoration: none;
+}
